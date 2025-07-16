@@ -3,8 +3,8 @@ from ui_data import product_group_list, tail_type_list, supplier_list, legacy_ta
     change_type_list, order_comp_list, advisory_note_list, task_list
 from prediction_helper import predict_lt
 
-st.set_page_config(page_title="Lead Time Prediction", page_icon="📊")
-st.title("Lead Time Prediction")
+st.set_page_config(page_title="Lead Time Prediction", page_icon="📈")
+st.title("📊 Lead Time Predictor")
 
 row1 = st.columns(2)
 row2 = st.columns(2)
