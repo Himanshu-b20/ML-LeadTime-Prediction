@@ -35,3 +35,7 @@ This predictive system helps businesses streamline planning, allocate resources 
     streamlit run /main.py
    ```
 
+## Stremlit UI
+
+<img width="1823" height="1256" alt="image" src="https://github.com/user-attachments/assets/b05f1431-e0af-4587-8ed3-1a0ac12c8384" />
+
